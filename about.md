@@ -33,7 +33,7 @@ software maintainer and technical support.</p>
 	<li>Test Driven Development (TDD)</li>
 	<li>JSON</li>
 	<li>Jekyll</li>
-	<li>Qunit, FuncUnit</li>
+	<li>MATLABUnit, Qunit, FuncUnit</li>
 	<li>Python</li>
 	<li>Bootstrap, CSS</li>
 	<li>Custom reporting tools (standalone and web) development</li>
