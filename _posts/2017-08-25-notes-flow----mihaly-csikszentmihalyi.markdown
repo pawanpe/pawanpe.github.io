@@ -1,5 +1,5 @@
 ---
-title: Notes -- Flow by Mihaly Csikszentmihalyi
+title: Notes -- FLOW by Mihaly Csikszentmihalyi
 layout: post
 date: 2017-11-04 07:50:13
 tag:
@@ -32,16 +32,16 @@ When a person knows that he/she is to be hanged in a fortnight, it concentrates 
 The good things which belong to prosperity are to be wishes, but the good things that belong to adversity(difficulties) are to be admired.
 
 A hopeless situation is to be transformed into flow activity
-	1. Unselfconscious self-assurance -- The attitude occurs when  person no longer sees himself in opposition to the environment, ass an individual who insists that his goals, his intentions take precedence over everything else.
-	2. Focus attention on the world: The person whose attention is immersed in the environment becomes part of it -- becomes part of the system by linking herself to it through psychic energy. Example in 2016 -- how dangerous excessive concern with safety can get, when it demands so much attention that it makes us oblivious to the rest of reality
+1. Unselfconscious self-assurance -- The attitude occurs when  person no longer sees himself in opposition to the environment, ass an individual who insists that his goals, his intentions take precedence over everything else.
+2. Focus attention on the world: The person whose attention is immersed in the environment becomes part of it -- becomes part of the system by linking herself to it through psychic energy. Example in 2016 -- how dangerous excessive concern with safety can get, when it demands so much attention that it makes us oblivious to the rest of reality
 
 Autotelic self:
 A self that has self-contained goals. Can transform an entropic experience into flow. Below are some rules to develop that personality:
-	1. Setting goals -- Diff b/w autotelic self and one without is that the former knows that it is she who has chosen whatever foal she is pursing. What she does is not ransom, nor is it the result of outside determining forces.
-	2. Becoming immersed in the activity -- with flow. Involvement greatly facilitated by the ability to concentrate.
-	3. Paying attention to what is happening.
-	4. Learning to enjoy immediate experience -- It is not sufficient to learn merely how to control moment by moment states of consciousness. It is also important to have an overall context of goals in everydays events.
-		a. If a person moves from one flow activity to another without a connecting order, it will be difficult at the end of one's life to look back on the years past and find meaning in what has happened.
+1. Setting goals -- Diff b/w autotelic self and one without is that the former knows that it is she who has chosen whatever foal she is pursing. What she does is not ransom, nor is it the result of outside determining forces.
+2. Becoming immersed in the activity -- with flow. Involvement greatly facilitated by the ability to concentrate.
+3. Paying attention to what is happening.
+4. Learning to enjoy immediate experience -- It is not sufficient to learn merely how to control moment by moment states of consciousness. It is also important to have an overall context of goals in everydays events.
+	a. If a person moves from one flow activity to another without a connecting order, it will be difficult at the end of one's life to look back on the years past and find meaning in what has happened.
 
 VERY IMP: Flow is a task that involves transforming the entirety of life into a single flow activity, with unified goals that provide constant purpose.
 	
@@ -78,19 +78,19 @@ When a culture succeeds in evolving a set of goals and rules so compelling and s
 How to raise a child
 1. Read pages 88-89
 2. The family context promoting optimal experience could ve described as having 5 characteristics
-	a. Clarity
-	b. Centering --- child perception that parents are interested in what they are doing in present rather then preoccupied with whether getting into a good college or obtaining a well paying job.
-	c. Choice
-	d. Commitment -- child to feel comfy enough to set aside the shield of defenses
-	e. Challenge -- provide increasingly complex opportunities for action to their children.
+a. Clarity
+b. Centering --- child perception that parents are interested in what they are doing in present rather then preoccupied with whether getting into a good college or obtaining a well paying job.
+c. Choice
+d. Commitment -- child to feel comfy enough to set aside the shield of defenses
+e. Challenge -- provide increasingly complex opportunities for action to their children.
 	
 <b style="color: brown">Chapter 8 -- Enjoying solitude and other people</b>
 
 1. Quality of life experience on two factors:
-	a. How we experience work
-	b. Our relations with other people
+a. How we experience work
+b. Our relations with other people
 2. A same person can make the morning wonderful and evening miserable. Why?
-	a. Because we depend so much on the affection and approval of others, we are extremely vulnerable to how we are treated by them.
+a. Because we depend so much on the affection and approval of others, we are extremely vulnerable to how we are treated by them.
 3. But people are important only because they can help make our goals come true; when they are treated as valuable in their own right, people are the most fulfilling source of happiness.
 4. Filling free time with activities that require concentration, that increase skills, that lead to a development of the self, is not the same as killing time by watching television or raking recreational drugs. Although both strategies seem to as different ways of coping with the same threat of chaos, as defense mechanism, one leads to growth and latter e=merely serves to keep the mind  from unraveling.
 5. Learning to use time alone, instead of escaping from it, is especially important in our early years. Teenagers who cannot know it will try for tv, friends chatting, useless activities.
@@ -111,12 +111,12 @@ How to raise a child
 <b style="color: brown">Chapter 5 -- Body in Flow</b>
 
 1. Even the simplest act will become enjoyable when it is transformed so as to produce flow:
-	a. To set an overall goal, and as many subgoals as are realistically feasible
-	b. To find ways of measuring progress in terms of the goals chosen
-		i. For measuring progress, the feedback may include how fast and how easily the intended distance was covered how many interesting sights one has seen and how many new ideas or feelings were entertained along the way.
-	c. To keep concentrating on what one is doing and to keep making finer and finer distinctions in the challenges involved in the activity
-	d. To develop the skills necessary to interact with the opportunities available
-	e. To keep raising the stakes if the activity becomes boring.
+a. To set an overall goal, and as many subgoals as are realistically feasible
+b. To find ways of measuring progress in terms of the goals chosen
+	i. For measuring progress, the feedback may include how fast and how easily the intended distance was covered how many interesting sights one has seen and how many new ideas or feelings were entertained along the way.
+c. To keep concentrating on what one is doing and to keep making finer and finer distinctions in the challenges involved in the activity
+d. To develop the skills necessary to interact with the opportunities available
+e. To keep raising the stakes if the activity becomes boring.
 2. The urge to have sex is so powerful that it can drain psychic energy away from other necessary goals. Therefore every culture has to invest great efforts in rechanneling it proper goal achievement.
 
 <b style="color: brown">Chapter 3 -- Enjoyment and the quality of life</b>
@@ -127,13 +127,13 @@ How to raise a child
 4. Pleasure is a feeling of contentment that one achieves whenever information in consciousness says that expectations set by biological programs or by social conditioning have been met. But Enjoyment is different. Please just helps to maintain order, but by itself cannot create new order on consciousness.
 5. Enjoyment occurs when  person has not only met some prior expectations(pleasure) or satisfied a need or desire but also gone beyond what be or she has been programmed to do and achieved something unexpected, perhaps something even unimagined before.
 6. The phenomenology of enjoyment has eight major components:
-	a. The experience usually occurs when we confront tasks we have a chance of completing.
-	b. We must be able to concentrate on what we are doing.
-	c. The concentration is usually possible because the task undertaken has clear goals
-	d. Goals to provide immediate feedback.
-	e. In acts with a deep but effortless involvement that removes from awareness the worries and frustration of everyday life.
-	f. Enjoyable experience allow people to exercise a sense of control over their actions.
-	g. Concern for the self disappears and paradoxically the sense of self emerges stronger after the flow exp concludes.
+a. The experience usually occurs when we confront tasks we have a chance of completing.
+b. We must be able to concentrate on what we are doing.
+c. The concentration is usually possible because the task undertaken has clear goals
+d. Goals to provide immediate feedback.
+e. In acts with a deep but effortless involvement that removes from awareness the worries and frustration of everyday life.
+f. Enjoyable experience allow people to exercise a sense of control over their actions.
+g. Concern for the self disappears and paradoxically the sense of self emerges stronger after the flow exp concludes.
 The autotelic personality refers to a self-contained avtiviry, one that is done not with the expectation of some future benefit, but simply because the doing itself is the reward.
 
 

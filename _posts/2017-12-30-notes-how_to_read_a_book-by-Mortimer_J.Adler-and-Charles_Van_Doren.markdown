@@ -1,5 +1,5 @@
 ---
-title: Notes -- How To Read A Book by Mortimer J. Adler and Charles Van Doren
+title: Notes -- HOW TO READ A BOOK By Mortimer J. Adler and Charles Van Doren
 layout: post
 date: 2017-12-30 12:50:13
 tag:

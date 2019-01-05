@@ -1,5 +1,5 @@
 ---
-title: Notes -- DeepWork by Cal Newport
+title: Notes -- DEEPWORK by Cal Newport
 layout: post
 date: 2017-10-05 07:50:13
 tag:
