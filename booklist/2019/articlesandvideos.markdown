@@ -16,3 +16,7 @@ layout: page
 <b style="color: red">01/10/2019</b>
 
 1. [Wealth Transfer - How to financially prepare for inheritance money - must listen](https://www.biggerpockets.com/renewsblog/biggerpockets-money-podcast-49-wealth-transfer-how-financially-prepare-inheritance-money-hari-mix/)
+
+<b style="color: red">01/14/2019</b>
+
+1. [6 Ways to reduce taxable income - follow this](https://www.biggerpockets.com/renewsblog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman/)
