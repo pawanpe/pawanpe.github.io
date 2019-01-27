@@ -36,7 +36,7 @@ description: Notes for the book - ZEN AND THE ART OF MOTORCYCLE MAINTENANCE By R
 1. From all the awareness we must select, and what we select and call consciousness is never the same as the awareness because the process of selection mutates it. We take a handful of sand from the endless landscape of awareness around us and call that handful of sand the world. Once we have the handful of sand, the world of which we are conscious a process of discrimination goes to work on it. This is the knife. We divide the sand into parts. This and that. Here and there. Black and White, now and then.The discrimination is the division of the conscious universe into parts.
 
 
-# PART 1 (CHAPTERS 8-15)
+# PART 2 (CHAPTERS 8-15)
 
 ## CHAPTER 8:
 1. FInally you see that while I was splitting the cycle up into finer and finer pieces. I was also building a structure. This structure of concepts is formally called a hierarchy and since ancient times has been a basic structure for all western knowledge. Kingdoms, empires, armies, businesses are so structured. computer software, all scientific and tech knowledge is too.
