@@ -53,25 +53,25 @@ description: Notes for the book - ZEN AND THE ART OF MOTORCYCLE MAINTENANCE By R
     c) experiments designed to test each hypothesis
     d) predicted and observed results of the experiments
     e) conclusions of the experiment.
- 6. An untrained observer will see only physical labor and often get the idea that lbor is mainly what the mechanic does. Actually the physical labor is the smallest and easiest part of what the mechanic does.. By fat the greatest part of this/her work is careful observation and precise thinking. Same with software. Learning and toining/coding is the smallest part. Use the expeimentation as part of a program to expand the hierarchy of knowledge .
+ 6. An untrained observer will see only physical labor and often get the idea that lbor is mainly what the mechanic does. Actually the physical labor is the smallest and easiest part of what the mechanic does.. By fat the greatest part of this/her work is careful observation and precise thinking. Same with software. Learning and toining/coding is the smallest part. Use the expeimentation as part of a program to expand the hierarchy of knowledge.
  
- ## CHAPTER 10:
+## CHAPTER 10:
  1. Again logically speaking, as you try to move toward unchaging truth through the application of scientific methods, you actually do not move toward it at all. You move away from it! It is your application of scientific method that is caussing it to change! This is Scientifically produced anti science - chaos. This is seen in every day in human life and all across the various industries of society.
  
- ## CHAPTER 11:
+## CHAPTER 11:
  1. He felt that institutions such as scholls, churches, govts and political organizations of every sort all tended to direct thought for ends other than truth, for the perpetuation of their own functions and for the control of individuals in the service of these functions. Unstable govts, corruptions, profit *polies companies*, high cost education, useless university and schools.. all point to this.
  2. Lateral knowledge is knowledge that's from a wholly unexpected direction, from a direction that's not even understood as a direction until the knowledge forces itself upon one. Lateral truths point to the falseness of axioms and postulated underlying one; ecisting system of getting at truth.
  
- ## CHAPTER 12:
- 1. It's a problem of our time. The range of human knowledge today os so great that we're all specialists and the distance between specializations has become so great that anyone who seeld to wander freely among them almost has to forefo closeness with the people around him/her. The lunchtime her and now stuff is a specialty too.
- 2. Logic presumes a separation of subject from object. There fore logic is not final wisdom. The illusion of separation of sub from obj is best removed by the elimination of physical activity, mental activity and emotional activity. There are many disciplies for this and one of the most important in Sanskrit is dhyana. And also Tat tvam adi, "Thou art that", which  asserts that everything you think you are and everything you think you perceive are undivided. To realize this fully is to become enlightened.
+## CHAPTER 12:
+ 1. It's a problem of our time. The range of human knowledge today os so great that we're all specialists and the distance between specializations has become so great that anyone who seek to wander freely among them almost has to forego closeness with the people around him/her. The lunchtime her-and-now stuff is a specialty too.
+ 2. Logic presumes a separation of subject from object. There fore logic is not final wisdom. The illusion of separation of sub from obj is best removed by the elimination of physical activity, mental activity and emotional activity. There are many disciplies for this and one of the most important in Sanskrit is dhyana. And also Tat tvam asi, "Thou art that", which  asserts that everything you think you are and everything you think you perceive are undivided. To realize this fully is to become enlightened.
  
- ## CHAPTER 13:
+## CHAPTER 13:
  1. The reason you teach and you teach and you teach is that this is a very clever way of running a college on the cheap while giving a galse appearance of genuine education.
  2. The real university is not a material object. It is not a group pf buildings that can be defended by police. The real University he said has no specific location. It is a state of  mind. The real Univ is nothing less than the continuing body of reason itself. They see professors as employees of the second university who should abandon reason when told to and take orders with no backtalk, the same way employees do in other corporations. True churchmen inn dire situations must act as though they has never heard of these threats. Their primary goal never is to serve the community ahead of everything else, but through reason, the goal of truth. That was what he meant by the Church of Reason.
  
- ## CHAPTER 14:
- 1. Sometime look at a novice workman or a bad workman and compare his expression with that of a craftsman whose work you know is excellent and you'll see the difference. The craftsman isn;t ever following a line of instruction. He's making decisions as he goes along. For that reason he'll be absorved and attentive to what he/she's doing even though he/she doesn;t deliverately contrive this. His/Her motions and machine are in a kind of harmony.
+## CHAPTER 14:
+ 1. Sometime look at a novice workman or a bad workman and compare his expression with that of a craftsman whose work you know is excellent and you'll see the difference. The craftsman isn't ever following a line of instruction. He's making decisions as he goes along. For that reason he'll be absorved and attentive to what he/she's doing even though he/she doesn't deliverately contrive this. His/Her motions and machine are in a kind of harmony.
  2. People haven't much paid attention to the ugliness of noncoalescence between reason and feeling of tech because the big concern has been with food, clothing and shelter for everyone and tech has provided these. Now that has been taken care and tech is improving and creating unnecessary things creating havoc in people's life like Facebook , instagram, and other useless apps/web.
  3. But what's happening is that each year our old flat earth of conventional reason becomes less and less adequate to handle the experiences we have and this is creating wide spread feelings of tipsy-turviness. As a result we are getting more and more people in irrational areas of though - occultism, mysticism, drugs, casteism, racism, ; because they feel the inadequacy of classical reason to handle what they know are real experiences.
 
