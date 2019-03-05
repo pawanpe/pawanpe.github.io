@@ -20,3 +20,7 @@ layout: page
 <b style="color: red">01/14/2019</b>
 
 1. [6 Ways to reduce taxable income - follow this](https://www.biggerpockets.com/renewsblog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman/)
+
+<b style="color: red">03/05/2019</b>
+
+1. [Jim Collins podcast with Tim Ferriss - Listen repeatedly](https://tim.blog/2019/02/18/jim-collins/)
