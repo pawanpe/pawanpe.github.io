@@ -78,3 +78,23 @@ description: Notes for the book - ZEN AND THE ART OF MOTORCYCLE MAINTENANCE By R
 ## CHAPTER 15:
 1. I hope you are teaching quality to your students.
 2. Quality - you know what it is, yet you don't know what it is. Some things are better than others?
+
+# PART 3 (CHAPTERS 16-)
+
+### CHAPTER 16:
+1. Before the electrodes were attached to Phaedrus' head he'd lost everything tangible: money, property, children, even his rights as a citozen had been taken away from him by order of the court. All he had left was his one crazy lone dream of Quality, a map of a route across the mountain, for which he had sacrificed everything. Then after the electrodes were attached, he lost that.
+2. For every fact there is an infinity of hyptheses. The more you look the more you see. She really wasn;t looing and yet somehow didnont understtand this. He told her angrily, "Narrow, it down to the front of the building on the maint street, the Opera hosue, start witht he upper left-hand brick. "I sat in the stand and started writing about the firtst brick and the second brick and then by the third brick it all started to come and I couldn't stop. I don;t understand it, why?" she said.
+3. She was blocked because she was trying to reepat, in her writing things she had already heard, just as on the first day he had tried to repeat things he had already decided to say. She couldn't write anything earlier because she couln't recall anything she had heard worth of repeating. Whe see freshly looked at different fresh angle, ideas came up.
+4. As a result of his experiments he concluded that imitation was a real evil that had to be broken before real rhetoric teaching could begin.Little children don't imitate. It seemed to come later on, possibly as a result of school itself. School teaches you to imitate. If you don't imitate what the teacher wants you get a bad grade. College is even more suttle, it's suppose to imitate the teacher in such a way as to convice the teacher that you are not imitating-- Education is such a bull shit concept in modern world.
+5. You can't eliminate the degree and grading system. After all, that's what we're here for, said one of the students. She spoke the truth.
+6. We need a student. A student would go to first class, get first aasignment and probably do it out of habit. Go tho second and third. But eventually the novelty of the course would wear off and because his academic life was not his only life, the pressure of other obligations or desires would create circumstances where he/she would not be able to get an assignment in. Since there is no degree or grading he would incur no penalty for this. Subsequent lectures which presumed he'd completed the assignment might be a little more difficult to understand, howeve and this diffuculty in turn might weaken his interest to a point whre the next addignmnet, which he would find quire hard, would also be dropped. Again no penalty.
+7. Eventually the student sees she/he is not learning anything and stop attending class and no penalty is attached. So much money and effort is saved and the student finds the real subject.
+8. The student biggest problem was a slave mentality which had been built into him by years of carrot and whip grading a mule mentality which said, "If you don't whip me, I won't work." And the cart of civilization, which he supposedly was being trained to pull, was just going to have to creak along a little slower without him.
+9. The church attitude is that civilization, or the system or the society or whatever you want to call it, is best served not by mules but by free men. The purpose of abolishing grades and degrees is not to punish mules or to get rid of them but to provide an environment in which that mule can turn into a free man.
+10. Once a person finds his competency/call or whatever is called, that person would be a knowledge-motivated person. Needs no exernal pushing or scenario. A free man disciplined on his/her own. Once that catches hold, it is a ferocious force and in the gradeless, degreeless institution where our student would find herself/himself.
+
+### CHAPTER 17:
+1. NONE
+
+### CHAPTER 18:
+1. There is an entire branch in philosophy concerned with the definition of Quality, called esthetics.
