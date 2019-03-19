@@ -10,6 +10,7 @@ layout: page
 
 # Toread:
     Peter Drucker books
+    Mathematicians: An Outer View of the Inner World.
     Man's search for meaning
     Davinchi bio new book
     Bogle heads book/Bogle heads financial planning blog.
