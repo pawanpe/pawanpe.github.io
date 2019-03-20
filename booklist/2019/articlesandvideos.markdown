@@ -24,3 +24,11 @@ layout: page
 <b style="color: red">03/05/2019</b>
 
 1. [Jim Collins podcast with Tim Ferriss - Listen repeatedly](https://tim.blog/2019/02/18/jim-collins/)
+
+<b style="color: red">03/19/2019</b>
+
+1. BiggerPockets - How to plan for US college scholarships and other ways (Must listen)(https://www.biggerpockets.com/blog/biggerpockets-money-podcast-64-scholarships-ways-pay-college-zach-gautier/)
+
+<b style="color: red">03/20/2019</b>
+
+1. How to run a good/small software company - Basecamp CEO and co-founder - Must Listen (https://fs.blog/jason-fried/)
