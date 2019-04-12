@@ -32,3 +32,9 @@ layout: page
 <b style="color: red">03/20/2019</b>
 
 1. [How to run a good/small software company - Basecamp CEO and co-founder - Must Listen](https://fs.blog/jason-fried/)
+
+<b style="color: red">04/11/2019</b>
+
+1. [Test Automation framework - pickle.js/storybookjs and philosphy on how to automate tests.](https://devchat.tv/js-jabber/jsj-358-pickle-js-tooling-and-developer-happiness-with-anatoliy-zaslavskiy/)
+2. [Neil Gaiman on Tim Ferris - UK Author](https://tim.blog/2019/03/28/neil-gaiman/)
+
