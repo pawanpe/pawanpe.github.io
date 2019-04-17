@@ -7,6 +7,7 @@ layout: page
 
 1. Zen and The Art of Motorcycle Maintenance - Robert M. Pirsig (reading 2nd time)
 2. Give and Take - Adam Grant (ok read)
+3. Increment.com - Issue 2 on Cloud Computing
 
 # Toread:
     Peter Drucker books
