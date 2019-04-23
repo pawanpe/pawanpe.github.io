@@ -14,10 +14,25 @@ description: Notes for the book - xUnit Test Patterns by Gerard Meszaros
 
 # CHAPTER 18: Test Strategy Patterns
 
-## Recorded Test :
+## Recorded Test (Record and Playback):
+1. Purposes of automated tests: 
+    a) Can be used for regression testing software
+    b) Help document the behavior of the software
+    c) Can specify the behavior of the software before it has been changed.
+2. RT can be used to rapidly build regression test suite after the SUT is built and before its changed.
+3. If we want to use Tests as Documentation or if we want to use the tests to drive new development, we should consider using Scripted Tests.
+4. Sometimes RT can be built into the application (SUT) itself in order to let us define the tests in the same Higher Level language of SUT.
+5. A good strategy is to use hybrid, i.e Record, refactor and playback sequence to extract a set of "action components" and create Test Utility methods instead of having detailed inline code.
+6. Built in test recording tool in SUT: On the surface, it doesn't seem to make sense to provide a code sample for a recorded test, because built in
+machanism deals with how the test is produced, not how the test in represented. When the test is played back, it is in effect a Data-Driven test. 
+Nevertheless, we might introduce a Recorded Test after attempting Scripted Tests if we discover that we have too many missing Tests because the cost
+of manual automation is very high. In that case we would not try to convert the existing Scripted test to Recorded test, we would just record new tests.
 
-## Scripted Test :
 
-## Data-Driven Test :
+## Scripted Test:
 
-## Test Automation Framework :
+## Data-Driven Test:
+
+## Test Automation Framework:
+
+## Minimal fixture:
