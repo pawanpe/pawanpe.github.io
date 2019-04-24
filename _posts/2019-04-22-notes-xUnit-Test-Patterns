@@ -18,11 +18,12 @@ description: Notes for the book - xUnit Test Patterns by Gerard Meszaros
 1. Purposes of automated tests: 
     a) Can be used for regression testing software
     b) Help document the behavior of the software
-    c) Can specify the behavior of the software before it has been changed.
+    c) Can specify the behavior of the software before it has been written (TDD).
 2. RT can be used to rapidly build regression test suite after the SUT is built and before its changed.
 3. If we want to use Tests as Documentation or if we want to use the tests to drive new development, we should consider using Scripted Tests.
 4. Sometimes RT can be built into the application (SUT) itself in order to let us define the tests in the same Higher Level language of SUT.
-5. A good strategy is to use hybrid, i.e Record, refactor and playback sequence to extract a set of "action components" and create Test Utility methods instead of having detailed inline code.
+5. A good strategy is to use hybrid, i.e Record, refactor and playback sequence to extract a set of "action components" and create 
+Test Utility methods instead of having detailed inline code.
 6. Built in test recording tool in SUT: On the surface, it doesn't seem to make sense to provide a code sample for a recorded test, because built in
 machanism deals with how the test is produced, not how the test in represented. When the test is played back, it is in effect a Data-Driven test. 
 Nevertheless, we might introduce a Recorded Test after attempting Scripted Tests if we discover that we have too many missing Tests because the cost
@@ -30,8 +31,17 @@ of manual automation is very high. In that case we would not try to convert the 
 
 
 ## Scripted Test:
+1. Preparing scripted test requires programming experience as well as experience in testing techniiques. An alternative to scripting tests in a programming language 
+is to define a Higher Level Language for testing the SUT and then to implement the language as a Data-Driven Test Interpreter.
+2. In case of an existing legacy application we can consider using Recorded Tests as a way of quickly creating a suiet of regression tests tht will protect us 
+while we refactor the code to introduce testability. We can then prepare Scripted Tests for out now testable appication.
 
 ## Data-Driven Test:
+1. We store all the information needed for wach test in a data gile and write an interpreter that reads the file and executes the tests.
+2. For each test it performs the same sequence of actions to implement the Four Phase Test. First, the interpreter retrieved the test data from the 
+file and sets up the teset fixture using the data from the file. Second, it exxecutes the SUT with whatever args the file specifies. THirs, it compares
+actual with expected resuults. Fourth, the interpreter does any fixture teardown that is necessay and then moves on to the next test in the file.
+3. A test that might otherwise require a series of complex steps can be reduced to a single line of data in the Data-Driven test file.
 
 ## Test Automation Framework:
 
