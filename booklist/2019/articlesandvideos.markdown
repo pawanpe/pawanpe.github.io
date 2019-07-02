@@ -27,7 +27,7 @@ layout: page
 
 <b style="color: red">03/19/2019</b>
 
-1. [BiggerPockets - How to plan for US college scholarships and other ways (Must listen)](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-64-scholarships-ways-pay-college-zach-gautier/)
+1. [BiggerPocketsMoney - How to plan for US college scholarships and other ways (Must listen)](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-64-scholarships-ways-pay-college-zach-gautier/)
 
 <b style="color: red">03/20/2019</b>
 
@@ -40,4 +40,4 @@ layout: page
 
 <b style="color: red">07/02/2019</b>
 
-1. [About Will and POA](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-78)
+1. [BiggerPocketsMoney - About Will and POA](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-78)
