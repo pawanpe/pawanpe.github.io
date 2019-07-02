@@ -38,3 +38,6 @@ layout: page
 1. [Test Automation framework - pickle.js/storybookjs and philosphy on how to automate tests.](https://devchat.tv/js-jabber/jsj-358-pickle-js-tooling-and-developer-happiness-with-anatoliy-zaslavskiy/)
 2. [Neil Gaiman on Tim Ferris - UK Author](https://tim.blog/2019/03/28/neil-gaiman/)
 
+<b style="color: red">07/02/2019</b>
+
+1. [About Will and POA](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-78)
