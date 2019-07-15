@@ -40,4 +40,8 @@ layout: page
 
 <b style="color: red">07/02/2019</b>
 
-1. [BiggerPocketsMoney - About Will and POA](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-78)
+1. [BiggerPocketsMoney - About making a Will and POA](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-78)
+
+<b style="color: red">07/15/2019</b>
+
+1. [Time ferris - Seth Godin podcast. Ok to skip the first 20-25 mins](https://tim.blog/2016/02/10/seth-godin/)
