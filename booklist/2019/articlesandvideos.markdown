@@ -45,3 +45,8 @@ layout: page
 <b style="color: red">07/15/2019</b>
 
 1. [Time ferris - Seth Godin podcast. Ok to skip the first 20-25 mins](https://tim.blog/2016/02/10/seth-godin/)
+
+<b style="color: red">07/16/2019</b>
+
+1. [The Right Way to Build Web Applications](https://devchat.tv/js-jabber/002-jsj-the-right-way-to-build-web-applications/)
+2. [What Do You Need to Do to Get a Website Up](https://devchat.tv/js-jabber/jsj-373-what-do-you-need-to-do-to-get-a-website-up/)
