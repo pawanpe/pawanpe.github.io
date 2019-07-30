@@ -56,3 +56,10 @@ layout: page
 1. [Radical Personal Finance - 653-How Tax Rule Changes Can Sink Your Financial Plan (Discussion of H.R. 1994: the SECURE act) -- Good points on Roth IRA extension to children](https://podcasts.google.com/?feed=aHR0cDovL3JhZGljYWxwZXJzb25hbGZpbmFuY2UubGlic3luLmNvbS9yc3M%3D&episode=MzExNzEzNTJjYzE2NDZlZGI1ZDZkNmYyYzE0NDRkNzk%3D)
 2. [Radical Personal Finance - 654-A New, Legal Tax Scheme to Help You Save Capital Gains: Qualified Opportunity Zones - Good explanation on Capital Gains (Real estate gains and business)]( https://podcasts.google.com/?feed=aHR0cDovL3JhZGljYWxwZXJzb25hbGZpbmFuY2UubGlic3luLmNvbS9yc3M%3D&episode=NzYyYmMwYjdiMDBkNDRlZWFkMDFlY2VjMDMzZTUyYWM%3D)
 3. [655-Friday Q&A: Protecting a Non-Working Spouse, Cash Savings, Wealth Accumulation vs. Living, etc.]( https://podcasts.google.com/?feed=aHR0cDovL3JhZGljYWxwZXJzb25hbGZpbmFuY2UubGlic3luLmNvbS9yc3M%3D&episode=MTU3MTVlZWJlYjc4NDZlNDhmMmRiMGRmODE5OWQ4Mzk%3D)
+
+<b style="color: red">07/29/2019</b>
+
+1. [Bigger pockets Money show - Buying first home](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-83-scott-mindy)
+2. [About Micro-mastery -- Art of manliness](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
+3. [Stress proof the brain - Art of manliness - Refer regularly](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
+4. [Death over dinner - Art of manliness](https://www.artofmanliness.com/articles/podcast-500-lets-talk-about-death-over-dinner/)
