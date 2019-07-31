@@ -63,3 +63,7 @@ layout: page
 2. [About Micro-mastery -- Art of manliness](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
 3. [Stress proof the brain - Art of manliness - Refer regularly](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
 4. [Death over dinner - Art of manliness](https://www.artofmanliness.com/articles/podcast-500-lets-talk-about-death-over-dinner/)
+
+<b style="color: red">07/30/2019</b>
+
+1. [Podcast #527: Father Wounds, Male Spirituality, and the Journey to the Second Half of Life - Good teachings](https://www.artofmanliness.com/articles/male-spirituality-richard-rohr/)
