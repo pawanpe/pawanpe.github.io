@@ -67,3 +67,7 @@ layout: page
 <b style="color: red">07/30/2019</b>
 
 1. [Podcast #527: Father Wounds, Male Spirituality, and the Journey to the Second Half of Life - Good teachings](https://www.artofmanliness.com/articles/male-spirituality-richard-rohr/)
+
+<b style="color: red">08/03/2019</b>
+
+1.[656-Twelve Interesting Ways to Invest In Your Children - VERY IMP](https://podcasts.google.com/?feed=aHR0cDovL3JhZGljYWxwZXJzb25hbGZpbmFuY2UubGlic3luLmNvbS9yc3M&episode=MWQ0ZWRhOTE0MDI0NGFjZWI4NjY5Y2JlYWFhN2MxMzg&at=1564829575466)
