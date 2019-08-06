@@ -71,3 +71,7 @@ layout: page
 <b style="color: red">08/03/2019</b>
 
 1.[656-Twelve Interesting Ways to Invest In Your Children - VERY IMP](https://podcasts.google.com/?feed=aHR0cDovL3JhZGljYWxwZXJzb25hbGZpbmFuY2UubGlic3luLmNvbS9yc3M&episode=MWQ0ZWRhOTE0MDI0NGFjZWI4NjY5Y2JlYWFhN2MxMzg&at=1564829575466)
+
+<b style="color: red">08/06/2019</b>
+
+1. [biggerpockets-money-podcast-84_Traditional Retirement: Social Security, Market Conditions, & Managing Expectation](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-84)
