@@ -9,6 +9,7 @@ layout: page
 2. Give and Take - Adam Grant (ok read)
 3. Increment.com - Issue 2 on Cloud Computing
 4. Code: The Hidden Language of Computer Hardware and Software - (Notes to self: Re-read it to your daughter)
+5. The ONE Thing - Gary Keller and Jay papasan (Ideas already known in society. It's about doing them. No need to refer)
 
 # Toread:
     Peter Drucker books
