@@ -76,3 +76,8 @@ layout: page
 
 1. [biggerpockets-money-podcast-84_Traditional Retirement: Social Security, Market Conditions, & Managing Expectation](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-84)
 2. [biggerpockets-money-41-How to Find the Best Possible Certified Financial Planner (CFP) for Your Needs with Kyle Mas](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-41-find-certified-financial-planner-cfpkyle-mast)
+
+
+<b style="color: red">08/019/2019</b>
+
+1.[Tim Ferris - safi-bahcall (Refer some good points on how to train brain)](https://tim.blog/2019/08/16/safi-bahcall/)
