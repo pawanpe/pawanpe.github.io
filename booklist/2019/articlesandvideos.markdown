@@ -61,12 +61,13 @@ layout: page
 
 1. [Bigger pockets Money show - Buying first home](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-83-scott-mindy)
 2. [About Micro-mastery -- Art of manliness](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
-3. [Stress proof the brain - Art of manliness - Refer regularly](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
+3. [Stress proof the brain - Art of manliness - Refer regularly](https://www.artofmanliness.com/articles/podcast-525-how-to-stress-proof-your-body-and-brain/)
 4. [Death over dinner - Art of manliness](https://www.artofmanliness.com/articles/podcast-500-lets-talk-about-death-over-dinner/)
 
 <b style="color: red">07/30/2019</b>
 
 1. [Podcast #527: Father Wounds, Male Spirituality, and the Journey to the Second Half of Life - Good teachings](https://www.artofmanliness.com/articles/male-spirituality-richard-rohr/)
+2. [Podcast #528: Become a More Competent Human Through Micromastery](https://www.artofmanliness.com/articles/micromastery-robert-twigger/)
 
 <b style="color: red">08/03/2019</b>
 
@@ -78,6 +79,11 @@ layout: page
 2. [biggerpockets-money-41-How to Find the Best Possible Certified Financial Planner (CFP) for Your Needs with Kyle Mas](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-41-find-certified-financial-planner-cfpkyle-mast)
 
 
-<b style="color: red">08/019/2019</b>
+<b style="color: red">08/19/2019</b>
 
 1.[Tim Ferris - safi-bahcall (Refer some good points on how to train brain)](https://tim.blog/2019/08/16/safi-bahcall/)
+
+<b style="color: red">10/07/2019</b>
+
+1. [America’s Math Curriculum Doesn’t Add Up](http://freakonomics.com/podcast/math-curriculum/) - very imp. Refer
+2. [Shep Gordon: Trust, Compassion, and Shooting Friends from Cannons - The Knowledge Project Ep. #65](https://fs.blog/shep-gordon/)
