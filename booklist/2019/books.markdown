@@ -12,8 +12,11 @@ layout: page
 5. The ONE Thing - Gary Keller and Jay papasan (Ideas already known in society. It's about doing them. No need to refer)
 6. https://www.taniarascia.com/blog/
 7. Coders: Clive Thompson - Entertaining book if you want to understand internal world of software developers.
+8. Alpha Girls - Julian Guthrie (Read again for VC members and to your daughter) 
 
-# Toread:
+# ToRead:
+    Atomic Habits
+    Your Money or Your Life - Vicky Robin
     Peter Drucker books
     Neil Gaiman - The graveyard book and other books.
     Mathematicians: An Outer View of the Inner World.
