@@ -87,3 +87,8 @@ layout: page
 
 1. [America’s Math Curriculum Doesn’t Add Up](http://freakonomics.com/podcast/math-curriculum/) - very imp. Refer
 2. [Shep Gordon: Trust, Compassion, and Shooting Friends from Cannons - The Knowledge Project Ep. #65](https://fs.blog/shep-gordon/)
+
+<b style="color: red">11/14/2019</b>
+
+1. [Podcast #560: The Magic of Walking - Art of Manliness](https://www.artofmanliness.com/articles/benefits-of-walking/) -- Refer this.
+2. [BiggerPockets Money Podcast 98: Change Your Money Mindset, Change Your Life with Vicki Robin](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-98-vicki-robin)
