@@ -13,9 +13,11 @@ layout: page
 6. https://www.taniarascia.com/blog/
 7. Coders: Clive Thompson - Entertaining book if you want to understand internal world of software developers.
 8. Alpha Girls - Julian Guthrie (Read again for VC members and to your daughter) 
+9. Atomic Habits - James Clear - https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+10. The poision squad - Deborah Blum
 
 # ToRead:
-    Atomic Habits
+    Rich dad poor dad
     Your Money or Your Life - Vicky Robin
     Peter Drucker books
     Neil Gaiman - The graveyard book and other books.
