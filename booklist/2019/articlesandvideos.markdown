@@ -92,3 +92,17 @@ layout: page
 
 1. [Podcast #560: The Magic of Walking - Art of Manliness](https://www.artofmanliness.com/articles/benefits-of-walking/) -- Refer this.
 2. [BiggerPockets Money Podcast 98: Change Your Money Mindset, Change Your Life with Vicki Robin](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-98-vicki-robin)
+
+
+<b style="color: red">12/09/2019</b>
+
+1. [Radical Finance podcast - Setting Financial goals part 1](https://podcasts.apple.com/us/podcast/681-how-to-set-financial-goals-part-1-dream-count-cost/id896153632?i=1000458418128)
+2. [Radical Finance podcast - Medical Toursim in Mexico, Retirement community, life - Must Listen](https://podcasts.apple.com/us/podcast/676-medical-tourism-real-life-experiences-from-myles/id896153632?i=1000456149824)
+3. [BPMoney podcast 101 - Sunita Rao International Tennis player story](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-101-sunitha-rao)
+4. [BPMoney podcast - Financial Mechanic 97 ](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-97-financial-mechanic)
+5. [BPMoney podcast 94: 18 Options for Healthcare in Early Retirement](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-94-lynn-frair)
+6. [SED: Treehouse bootcamp education model](https://softwareengineeringdaily.com/2019/10/09/treehouse-business-and-education-with-ryan-carson/)
+7. [IH: The Business of Podcasting with Jeff Meyerson of Software Engineering Daily](https://www.indiehackers.com/podcast/114-jeff-meyerson-of-software-engineering-daily)
+8.[IH: Using email to launch business - Keeping It Simple](https://www.indiehackers.com/podcast/108-sam-parr-of-the-hustle)
+9.[Peter Attia, M.D. — Fasting, Metformin, Athletic Performance](https://tim.blog/2019/11/27/peter-attia-fasting-metforming-longevity/)
+10. 
