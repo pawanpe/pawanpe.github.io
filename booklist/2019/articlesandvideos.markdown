@@ -103,6 +103,5 @@ layout: page
 5. [BPMoney podcast 94: 18 Options for Healthcare in Early Retirement](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-94-lynn-frair)
 6. [SED: Treehouse bootcamp education model](https://softwareengineeringdaily.com/2019/10/09/treehouse-business-and-education-with-ryan-carson/)
 7. [IH: The Business of Podcasting with Jeff Meyerson of Software Engineering Daily](https://www.indiehackers.com/podcast/114-jeff-meyerson-of-software-engineering-daily)
-8.[IH: Using email to launch business - Keeping It Simple](https://www.indiehackers.com/podcast/108-sam-parr-of-the-hustle)
-9.[Peter Attia, M.D. — Fasting, Metformin, Athletic Performance](https://tim.blog/2019/11/27/peter-attia-fasting-metforming-longevity/)
-10. 
+8. [IH: Using email to launch business - Keeping It Simple](https://www.indiehackers.com/podcast/108-sam-parr-of-the-hustle)
+9. [Peter Attia, M.D. — Fasting, Metformin, Athletic Performance](https://tim.blog/2019/11/27/peter-attia-fasting-metforming-longevity/)
