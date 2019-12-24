@@ -14,7 +14,8 @@ layout: page
 7. Coders: Clive Thompson - Entertaining book if you want to understand internal world of software developers.
 8. Alpha Girls - Julian Guthrie (Read again for VC members and to your daughter) 
 9. Atomic Habits - James Clear - https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
-10. The poision squad - Deborah Blum
+10. The poision squad - Deborah Blum (About food industry adultery)
+12. 1-2-3 Magic: 3-Step Discipline for Calm, Effective, and Happy Parenting  - Thomas Phelan (Good book - make notes and refer)
 
 # ToRead:
     Rich dad poor dad
