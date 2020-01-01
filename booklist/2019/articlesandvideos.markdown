@@ -105,3 +105,7 @@ layout: page
 7. [IH: The Business of Podcasting with Jeff Meyerson of Software Engineering Daily](https://www.indiehackers.com/podcast/114-jeff-meyerson-of-software-engineering-daily)
 8. [IH: Using email to launch business - Keeping It Simple](https://www.indiehackers.com/podcast/108-sam-parr-of-the-hustle)
 9. [Peter Attia, M.D. — Fasting, Metformin, Athletic Performance](https://tim.blog/2019/11/27/peter-attia-fasting-metforming-longevity/)
+
+<b style="color: red">12/31/2019</b>
+
+1. [Peter Attia gives an update on his views regarding longevity- STEM Talk](https://www.ihmc.us/stemtalk/episode-100/)
