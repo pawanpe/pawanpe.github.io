@@ -18,19 +18,3 @@ layout: page
 11. 1-2-3 Magic: 3-Step Discipline for Calm, Effective, and Happy Parenting  - Thomas Phelan (Good book - make notes and refer)
 12. Nine lies about work - Marcus, Ashley (Casual reading - no need to come back)
 13. See Jane Win - Caitlin Moscatello (Rise if women in politics after 2016)
-
-# ToRead:
-    Rich dad poor dad
-    Your Money or Your Life - Vicky Robin
-    Peter Drucker books
-    Neil Gaiman - The graveyard book and other books.
-    Mathematicians: An Outer View of the Inner World.
-    Man's search for meaning
-    Davinchi bio new book
-    Bogle heads book/Bogle heads financial planning blog.
-    The Rent Is Too Damn High: What To Do About It, And Why It Matters More Than You Think
-    Test driven Dev by Kent Beck    
-    Negotiating Opportunities: How the Middle Class Secures Advantages in School.
-    https://www.amazon.com/Catastrophic-Care-Everything-Think-Health/dp/034580273X
-    http://www.gutenberg.org/ebooks/20203?msg=welcome_stranger
-    Titan by Chernow. Rockefeller 
