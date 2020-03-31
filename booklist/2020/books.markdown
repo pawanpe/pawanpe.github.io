@@ -5,11 +5,13 @@ layout: page
 
 # 2020
 
-1. TBD
+1. The Atlas of Happiness - Helen Russell (Good book to know what most country people do for relaxing. Especially Scandinavian)
+2. A Random Walk Down Wall Street - Burton G. Malkiel (Very good book and must buy for investing strategies)
+3. Your Money or Your Life - Vicky Robin (Good book. Deep step by step strategy to build for FIRE)
+
 
 # ToRead:
-    Rich dad poor dad
-    Your Money or Your Life - Vicky Robin
+    Rich dad poor dad    
     Peter Drucker books
     Neil Gaiman - The graveyard book and other books.
     Mathematicians: An Outer View of the Inner World.
