@@ -11,3 +11,8 @@ layout: page
 2. [Top 10 Real Python Articles of 2019](https://talkpython.fm/episodes/show/244/top-10-real-python-articles-of-2019)
 3. [Peter Attia - Mitochondria, exercise, and metabolic health](https://peterattiamd.com/inigosanmillan/)
 4. [Widespread fraud in the generic drug industry in India](https://peterattiamd.com/katherineeban/)
+
+<b style="color: red">03/31/2020</b>
+
+1. [Farnam Street - Naval Ravikant - Revise - MUST LISTEN](https://fs.blog/knowledge-project/naval-ravikant/)
+2. [Bigger pockets money podcast - podcast-118-kyle-mast-FCP- MUST LISTEN](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-118-kyle-mast)
