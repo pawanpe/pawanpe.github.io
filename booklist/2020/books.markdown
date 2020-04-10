@@ -9,6 +9,7 @@ layout: page
 2. A Random Walk Down Wall Street - Burton G. Malkiel (Very good book and must read for investing strategies)
 3. Your Money or Your Life - Vicky Robin (Good book. Deep step by step strategy to build for FIRE)
 4. Rich dad poor dad - Must read and refer.
+5. [Learning how to learn MOOC - Re-listen. TODO: Move it to MOOC list](https://www.coursera.org/learn/learning-how-to-learn/)
 
 
 # ToRead:
