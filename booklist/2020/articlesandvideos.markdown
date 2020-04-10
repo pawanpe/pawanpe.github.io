@@ -22,4 +22,12 @@ layout: page
 1. [Bigger pockets money podcast - podcast-41-kyle-mast-FCP- MUST LISTEN](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-41-find-certified-financial-planner-cfpkyle-mast)
 2. [Bigger pockets money podcast - podcast-54-6 ways to reduce taxable income and inheritance - MUST LISTEN every year](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman)
 3. [Farnam Street - Mental models - Sanjay Bakshi](https://fs.blog/knowledge-project/sanjay-bakshi/)
+4. [Farnam Street - Learning how to learn- Barbara Oakley](https://fs.blog/2018/04/learning-barbara-oakley/)
+
+<b style="color: red">04/10/2020</b>
+
+1. [Sanjay Bakshi - MDI V14 course](https://www.sanjaybakshi.net/bfbv-v14/)
+2. [Pay less tax now - USA - Very important](https://files.constantcontact.com/9f020015601/aacc701e-7322-4c16-8864-fb31528ccdf1.pdf)
+3. [Freakonomics - Index card investing podcast](https://freakonomics.com/podcast/everything-always-wanted-know-money-afraid-ask/)
+
 
