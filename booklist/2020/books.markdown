@@ -10,6 +10,7 @@ layout: page
 3. Your Money or Your Life - Vicky Robin (Good book. Deep step by step strategy to build for FIRE)
 4. Rich dad poor dad - Must read and refer.
 5. [Learning how to learn MOOC - Re-listen. TODO: Move it to MOOC list](https://www.coursera.org/learn/learning-how-to-learn/)
+6. [Late Bloomers - Rich Karlgaard - Time pass book with facts on late bloomers.](https://www.latebloomer.com/)
 
 
 # ToRead:
