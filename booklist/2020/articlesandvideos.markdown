@@ -30,4 +30,8 @@ layout: page
 2. [Pay less tax now - USA - Very important](https://files.constantcontact.com/9f020015601/aacc701e-7322-4c16-8864-fb31528ccdf1.pdf)
 3. [Freakonomics - Index card investing podcast](https://freakonomics.com/podcast/everything-always-wanted-know-money-afraid-ask/)
 
+<b style="color: red">04/17/2020</b>
+
+1. [Farnam street - Winning the great game part 1 and 2. Very interesting episodes](https://fs.blog/knowledge-project/adam-robinson-pt1/)
+2. [Farnam street - Jason Calacanis: Intelligent Risk #81](https://fs.blog/knowledge-project/jason-calacanis/)
 
