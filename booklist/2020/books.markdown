@@ -15,7 +15,17 @@ layout: page
 
 
 # ToRead:
-        
+      
+    Stocks for long run - Jeremy Siegal
+    Aristotle principles (Rules of Drama mentioned in Aaron Sorkin Masterclass)
+    Books written by Bent Flyvbjerg - on Scale
+    Richest man in Babylon
+    Retire wealthy
+    Garret sutton's book on personal corporations
+    New Financial Advisor - Nick Murray (in Rich dad poor dad)
+    taxbook.com
+    1-2-3 Magic
+    JamesClear pdf checklist online
     Peter Drucker books
     Neil Gaiman - The graveyard book and other books.
     Mathematicians: An Outer View of the Inner World.
