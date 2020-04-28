@@ -35,3 +35,6 @@ layout: page
 1. [Farnam street - Winning the great game part 1 and 2. Very interesting episodes](https://fs.blog/knowledge-project/adam-robinson-pt1/)
 2. [Farnam street - Jason Calacanis: Intelligent Risk #81](https://fs.blog/knowledge-project/jason-calacanis/)
 
+<b style="color: red">04/28/2020</b>
+
+1. [ArtOfManliness- podcast-602-the-case-for-being-unproductive](https://www.artofmanliness.com/articles/podcast-602-the-case-for-being-unproductive/)
