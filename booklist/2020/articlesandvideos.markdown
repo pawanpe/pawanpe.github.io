@@ -45,4 +45,11 @@ layout: page
 2. [BiggerPockets Money Podcast 125: Ready to Retire: The Ultimate Pre-Retirement Checklist with The Retirement Manifesto](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-125-retirement-manifesto)
 3. [International Consumer Credit Infrastructure - Software Engineering Daily](https://softwareengineeringdaily.com/2020/05/14/international-consumer-credit-infrastructure-with-brian-regan-and-misha-esipov/)
 4. [BiggerPockets Podcast 379: What the Numbers Reveal About Today’s Rents, Prices, and Top Cashflow Markets with Data Scientist Dave Meyer](https://www.biggerpockets.com/blog/biggerpockets-podcast-379-dave-meyer)
+5. [MasterClass]
+    a. Shonda Rhymes
+    b. Neil Gaiman
+    c. Bob Iger
+    d. Dan Brown
+    e. James Patterson
+    f. Aaron Sorkin
 
