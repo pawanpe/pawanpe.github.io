@@ -38,3 +38,11 @@ layout: page
 <b style="color: red">04/28/2020</b>
 
 1. [ArtOfManliness- podcast-602-the-case-for-being-unproductive](https://www.artofmanliness.com/articles/podcast-602-the-case-for-being-unproductive/)
+
+<b style="color: red">05/22/2020</b>
+
+1. [SEO for developers - talk python - Must read for SEO tactics](https://talkpython.fm/episodes/show/263/seo-for-developers)
+2. [BiggerPockets Money Podcast 125: Ready to Retire: The Ultimate Pre-Retirement Checklist with The Retirement Manifesto](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-125-retirement-manifesto)
+3. [International Consumer Credit Infrastructure - Software Engineering Daily](https://softwareengineeringdaily.com/2020/05/14/international-consumer-credit-infrastructure-with-brian-regan-and-misha-esipov/)
+4. [BiggerPockets Podcast 379: What the Numbers Reveal About Today’s Rents, Prices, and Top Cashflow Markets with Data Scientist Dave Meyer](https://www.biggerpockets.com/blog/biggerpockets-podcast-379-dave-meyer)
+
