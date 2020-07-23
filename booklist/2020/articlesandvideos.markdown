@@ -52,4 +52,7 @@ layout: page
     d. Dan Brown
     e. James Patterson
     f. Aaron Sorkin
+    
+ <b style="color: red">07/23/2020</b>
 
+1. [Radical Personal Finance - Tax Planning Advice for an American Couple Moving Abroad.](https://www.stitcher.com/podcast/radical-personal-finance/e/76260113)
