@@ -56,3 +56,8 @@ layout: page
  <b style="color: red">07/23/2020</b>
 
 1. [Radical Personal Finance - Tax Planning Advice for an American Couple Moving Abroad.](https://www.stitcher.com/podcast/radical-personal-finance/e/76260113)
+
+ <b style="color: red">08/12/2020</b>
+ 
+ 1. [Biggerpockets money podcast-137-felicity-freedom](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-137-felicity-freedom)
+ 2. [Biggerpockets money podcast-120-michael-kitces -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-120early-retirementasset-allocation-safe-withdrawal-rates-michael-kitces)
