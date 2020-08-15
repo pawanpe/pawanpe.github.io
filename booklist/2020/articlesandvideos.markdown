@@ -61,3 +61,8 @@ layout: page
  
  1. [Biggerpockets money podcast-137-felicity-freedom](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-137-felicity-freedom)
  2. [Biggerpockets money podcast-120-michael-kitces -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-120early-retirementasset-allocation-safe-withdrawal-rates-michael-kitces)
+ 
+ <b style="color: red">08/15/2020</b>
+ 
+ 1. [Radical Personal Finance - Socializing Children, IRA Taxation for Ex-US Citizens, Foreign Corps, Private Businesses - VERY IMP](https://podcasts.apple.com/au/podcast/friday-q-socializing-children-ira-taxation-for-ex-us/id896153632?i=1000488165132)
+ 2. [BiggerPockets Money Podcast 20: The Simple Path to Wealth—Index Funds Explained with JL Collins](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-20-the-simple-path-to-wealth-index-funds-explained-with-jl-collins)
