@@ -66,3 +66,8 @@ layout: page
  
  1. [Radical Personal Finance - Socializing Children, IRA Taxation for Ex-US Citizens, Foreign Corps, Private Businesses - VERY IMP](https://podcasts.apple.com/au/podcast/friday-q-socializing-children-ira-taxation-for-ex-us/id896153632?i=1000488165132)
  2. [BiggerPockets Money Podcast 20: The Simple Path to Wealth—Index Funds Explained with JL Collins](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-20-the-simple-path-to-wealth-index-funds-explained-with-jl-collins)
+
+<b style="color: red">08/31/2020</b>
+
+1. [BiggerPockets Money Podcast 54: 6 Ways to Reduce Your Taxable Income -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman)
+2. [BiggerPockets Money Podcast 49: Wealth Transfer—How to Financially Prepare for Inheritance Money -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-49-wealth-transfer-how-financially-prepare-inheritance-money-hari-mix)
