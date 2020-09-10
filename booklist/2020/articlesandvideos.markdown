@@ -71,3 +71,23 @@ layout: page
 
 1. [BiggerPockets Money Podcast 54: 6 Ways to Reduce Your Taxable Income -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman)
 2. [BiggerPockets Money Podcast 49: Wealth Transfer—How to Financially Prepare for Inheritance Money -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-49-wealth-transfer-how-financially-prepare-inheritance-money-hari-mix)
+
+<b style="color: red">09/10/2020</b>
+
+1. [BiggerPockets Money Podcast 141: How to Graduate College Debt-Free and Pursue FI Before 40 with 4 kids! -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-141-blake-nielson)
+2. [BiggerPockets Money Podcast 07: How Breakfast Food Motivated Financial Freedom with Mr. and Mrs. Waffles on Wednesday -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-07-breakfast-food-motivated-financial-freedom-waffles-wednesday)
+4. [Financial Independence at Age 30 (by House Hacking + Side Hustles) with Drew from Guy On Fire](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-09-financial-independence-age-30-by-house-hacking-side-hustlesdrew-guy-fire)
+3. [BiggerPockets Money Podcast 14: The Pillars of FI: Designing the Life You Want with Brad Barrett and Jonathan Mendonsa from Choose FI](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-14-the-pillars-of-fi-designing-the-life-you-want-with-brad-barrett-and-jonathan-mendonsa-from-choose-fi)
+4. [BiggerPockets Money Podcast 15: The Pillars of FI, Pt. 2: Designing the Life You Want with Brad Barrett and Jonathan Mendonsa from Choose FI](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-15-the-pillars-of-financial-freedom-designing-the-life-you-want-with-brad-barrett-and-jonathan-mendonsa)
+5. [BiggerPockets Money Podcast 18: Accessing Retirement Funds Before Age 59½ with The Mad Fientist -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-18-accessing-retirement-funds-mad-fientist)
+6. [BiggerPockets Money Podcast 20: The Simple Path to Wealth—Index Funds Explained with JL Collins -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-20-the-simple-path-to-wealth-index-funds-explained-with-jl-collins)
+7. [BiggerPockets Money Podcast 22: How to Pay Off 6-Figure Student Loans While Pursuing Financial Independence with Travis Hornsby](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-22pay-6-figure-student-loans-pursuing-financial-independence-travis-hornsby)
+8. [BiggerPockets Money Podcast 25: Raising a Family While Seeking Financial Freedom with Chris and Debbie Emick - VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-25-raising-a-family-seeking-financial-freedom-with-chris-and-edbbie-emick)
+9. [BiggerPockets Money Podcast 31: How to Boost Your Income & Investments for a Faster Route to Financial Freedom](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-31-how-to-boost-income-investments-for-faster-route-to-financial-freedom)
+10. [Using the Power of Goal-Setting to Fundamentally Alter Your Financial Path with J Scot](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-43-using-the-power-goal-setting-fundamentally-alter-financial-path-j-scott)
+11. [BiggerPockets Money Podcast 46: Engineering Passive Income Streams to Fund the Life You Want with Financial Samurai](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-46-engineering-passive-income-streams-to-find-the-life-you-want-financial-samurai)
+12. [BiggerPockets Money Podcast 49: Wealth Transfer—How to Financially Prepare for Inheritance Money with Hari Mix - VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-49-wealth-transfer-how-financially-prepare-inheritance-money-hari-mix -- VERY IMP)
+13. [BiggerPockets Money Podcast 51: Using Financial Freedom to Prioritize Family with Crispy Doc](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-51-financial-freedom-prioritize-family-crispy-doc)
+14. [https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman)
+15. [BiggerPockets Money Podcast 62: Taking Advantage of ALL Opportunities Life Throws at You with Anna Li - NICE](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-62-advantage-opportunities-life-throws-anna-li)
+16. [BiggerPockets Money Podcast 64: Scholarships and Other Ways to Pay for College with Zach Gautier](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-64-scholarships-ways-pay-college-zach-gautier)
