@@ -91,3 +91,10 @@ layout: page
 14. [https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-54-6-ways-reduce-taxable-income-eric-brotman)
 15. [BiggerPockets Money Podcast 62: Taking Advantage of ALL Opportunities Life Throws at You with Anna Li - NICE](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-62-advantage-opportunities-life-throws-anna-li)
 16. [BiggerPockets Money Podcast 64: Scholarships and Other Ways to Pay for College with Zach Gautier](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-64-scholarships-ways-pay-college-zach-gautier)
+
+<b style="color: red">09/20/2020</b>
+
+1. [BiggerPockets Money Podcast 70: 7 Tips for Successfully Investing in ANY Market Condition With J Scott](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-70-7-tips-successfully-investing-market-condition-scott)
+2. [BiggerPockets Money Podcast 75: The Most Efficient Path to Financial Freedom With Justin From Saving Sherpa](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-75-efficient-path-financial-freedom)
+3. [BiggerPockets Money Podcast 81: The Basics of Investing with Erin Lowry from Broke Millennial -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-81)
+
