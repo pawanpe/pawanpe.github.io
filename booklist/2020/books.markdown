@@ -12,6 +12,9 @@ layout: page
 5. [Learning how to learn MOOC - Re-listen. TODO: Move it to MOOC list](https://www.coursera.org/learn/learning-how-to-learn/)
 6. [Late Bloomers - Rich Karlgaard - Time pass book with facts on late bloomers.](https://www.latebloomer.com/)
 7. The Art of Thinking Clearly - Rolf Dobelli, Explanation about various fallacies in human thinking.
+8. https://www.amazon.com/Quit-Like-Millionaire-Gimmicks-Required/dp/0525538690 - MUST READ AGAIN AND AGAIN.
+9. https://www.amazon.com/Sixty-Things-When-You-Turn/dp/1569069670 - IMP INFO ON HEALTH AND FINANCE.
+10. Simple Money - Tim Maurer - Some topics are good. Worth refering.
 
 
 # ToRead:
