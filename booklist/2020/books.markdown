@@ -12,13 +12,11 @@ layout: page
 5. [Learning how to learn MOOC - Re-listen. TODO: Move it to MOOC list](https://www.coursera.org/learn/learning-how-to-learn/)
 6. [Late Bloomers - Rich Karlgaard - Time pass book with facts on late bloomers.](https://www.latebloomer.com/)
 7. The Art of Thinking Clearly - Rolf Dobelli, Explanation about various fallacies in human thinking.
-8. https://www.amazon.com/Quit-Like-Millionaire-Gimmicks-Required/dp/0525538690 - MUST READ AGAIN AND AGAIN.
-9. https://www.amazon.com/Sixty-Things-When-You-Turn/dp/1569069670 - IMP INFO ON HEALTH AND FINANCE.
-10. Simple Money - Tim Maurer - Some topics are good. Worth refering.
-11. The Thin Green Line by Paul Sullivan - Ok book to refer
-12. 60 Things to do when you turn 60 by Ronnie Sellers - Good book. Refer again
-13. The Simple Path to Wealth by Jim Collins - <b style="color: green">VERY IMP BOOK - PLAN ACCORDINGLY.</b>
-14. Quit Like a Millionaire by Kristy Shen - <b style="color: green">VERY IMP BOOK - PLAN ACCORDINGLY</b>
+8. Simple Money - Tim Maurer - Some topics are good. Worth refering.
+9. The Thin Green Line by Paul Sullivan - Ok book to refer
+10. 60 Things to do when you turn 60 by Ronnie Sellers - <b style="color: green"> IMP INFO ON HEALTH AND FINANCE</b>
+11. The Simple Path to Wealth by Jim Collins - <b style="color: green"> VERY IMP BOOK - PLAN ACCORDINGLY</b>
+12. Quit Like a Millionaire by Kristy Shen - <b style="color: green"> VERY IMP BOOK - PLAN ACCORDINGLY</b>
 
 
 # ToRead:
