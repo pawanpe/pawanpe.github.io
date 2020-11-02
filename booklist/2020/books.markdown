@@ -15,6 +15,10 @@ layout: page
 8. https://www.amazon.com/Quit-Like-Millionaire-Gimmicks-Required/dp/0525538690 - MUST READ AGAIN AND AGAIN.
 9. https://www.amazon.com/Sixty-Things-When-You-Turn/dp/1569069670 - IMP INFO ON HEALTH AND FINANCE.
 10. Simple Money - Tim Maurer - Some topics are good. Worth refering.
+11. The Thin Green Line by Paul Sullivan - Ok book to refer
+12. 60 Things to do when you turn 60 by Ronnie Sellers - Good book. Refer again
+13. The Simple Path to Wealth by Jim Collins - <b style="color: green">VERY IMP BOOK - PLAN ACCORDINGLY.</b>
+14. Quit Like a Millionaire by Kristy Shen - <b style="color: green">VERY IMP BOOK - PLAN ACCORDINGLY</b>
 
 
 # ToRead:
@@ -22,8 +26,7 @@ layout: page
     Stocks for long run - Jeremy Siegal
     Aristotle principles (Rules of Drama mentioned in Aaron Sorkin Masterclass)
     Books written by Bent Flyvbjerg - on Scale
-    Richest man in Babylon
-    Retire wealthy
+    Richest man in Babylon   
     Garret sutton's book on personal corporations
     New Financial Advisor - Nick Murray (in Rich dad poor dad)
     taxbook.com
@@ -33,7 +36,7 @@ layout: page
     Neil Gaiman - The graveyard book and other books.
     Mathematicians: An Outer View of the Inner World.
     Man's search for meaning
-    Davinchi bio new book
+    Davinci bio new book
     Bogle heads book/Bogle heads financial planning blog.
     The Rent Is Too Damn High: What To Do About It, And Why It Matters More Than You Think
     Test driven Dev by Kent Beck
