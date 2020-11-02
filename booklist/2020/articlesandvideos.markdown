@@ -98,3 +98,11 @@ layout: page
 2. [BiggerPockets Money Podcast 75: The Most Efficient Path to Financial Freedom With Justin From Saving Sherpa](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-75-efficient-path-financial-freedom)
 3. [BiggerPockets Money Podcast 81: The Basics of Investing with Erin Lowry from Broke Millennial -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-81)
 
+<b style="color: red">11/02/2020</b>
+
+1. [BiggerPockets Money Podcast 84: Traditional Retirement: Social Security, Market Conditions, & Managing Expectations with Kyle Mast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-84)
+2. [BiggerPockets Money Podcast 89: Retire Before Mom & Dad with Rob Berger](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-89-rob-berger)
+3. [BiggerPockets Money Podcast 94: 18 Options for Healthcare in Early Retirement with Lynn Frair](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-94-lynn-frair)
+5. [BiggerPockets Money Podcast 112: Choosing the Right Tax Professional for YOUR Specific Needs with Natalie Kolodij](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-112-natalie-kolodij)
+5. [BiggerPockets Money Podcast 118: Retirement Planning During (and After) the Coronavirus with Kyle Mast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-118-kyle-mast)
+6. [BiggerPockets Money Podcast 124: Starting From $0 at Age 35 as a Teacher and Becoming ‘The Millionaire Educator’](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-124-millionaire-educator)
