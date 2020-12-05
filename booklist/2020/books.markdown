@@ -17,10 +17,12 @@ layout: page
 10. 60 Things to do when you turn 60 by Ronnie Sellers - <b style="color: green"> IMP INFO ON HEALTH AND FINANCE</b>
 11. The Simple Path to Wealth by Jim Collins - <b style="color: green"> VERY IMP BOOK - PLAN ACCORDINGLY</b>
 12. Quit Like a Millionaire by Kristy Shen - <b style="color: green"> VERY IMP BOOK - PLAN ACCORDINGLY</b>
+13. Ten Women Who Changed Science and the World - Catherine Whitlock
 
 
 # ToRead:
       
+    Scam me if you can
     Stocks for long run - Jeremy Siegal
     Aristotle principles (Rules of Drama mentioned in Aaron Sorkin Masterclass)
     Books written by Bent Flyvbjerg - on Scale
