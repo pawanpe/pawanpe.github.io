@@ -106,3 +106,11 @@ layout: page
 5. [BiggerPockets Money Podcast 112: Choosing the Right Tax Professional for YOUR Specific Needs with Natalie Kolodij](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-112-natalie-kolodij)
 5. [BiggerPockets Money Podcast 118: Retirement Planning During (and After) the Coronavirus with Kyle Mast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-118-kyle-mast)
 6. [BiggerPockets Money Podcast 124: Starting From $0 at Age 35 as a Teacher and Becoming ‘The Millionaire Educator’](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-124-millionaire-educator)
+
+<b style="color: red">12/04/2020</b>
+
+1. [BiggerPockets Money Podcast 153: Bill Bengen (The Inventor of the 4% Rule) - IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-153-bill-bengen)
+2. [BiggerPockets Money Podcast 152: Reaching Financial Independence Despite a Very Late Start with Baby Boomer Super Saver](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-152-baby-boomer-super-saver)
+3. [BiggerPockets Money Podcast 139: Everything You Never Wanted to Know About Life Insurance (But Absolutely Need To) ](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-139-joe-saul-sehy)
+4. [BiggerPockets Money Podcast 136: Secrets of a Money Savvy Family with Doug Nordman and Carol Pittner -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-136-doug-nordman-carol-pittner)
+5. [BiggerPockets Money Podcast 125: Ready to Retire: The Ultimate Pre-Retirement Checklist with The Retirement Manifesto -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-125-retirement-manifesto)
