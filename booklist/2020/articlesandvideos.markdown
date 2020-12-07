@@ -114,3 +114,7 @@ layout: page
 3. [BiggerPockets Money Podcast 139: Everything You Never Wanted to Know About Life Insurance (But Absolutely Need To) ](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-139-joe-saul-sehy)
 4. [BiggerPockets Money Podcast 136: Secrets of a Money Savvy Family with Doug Nordman and Carol Pittner -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-136-doug-nordman-carol-pittner)
 5. [BiggerPockets Money Podcast 125: Ready to Retire: The Ultimate Pre-Retirement Checklist with The Retirement Manifesto -- VERY IMP](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-125-retirement-manifesto)
+
+<b style="color: red">12/06/2020</b>
+
+1.[BiggerPockets Money Podcast 141: How to Graduate College Debt-Free and Pursue FI Before 40 with 4 kids -- VERY IMP FOR KIDS- Refer](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-141-blake-nielson)
