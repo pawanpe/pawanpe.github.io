@@ -18,29 +18,3 @@ layout: page
 11. The Simple Path to Wealth by Jim Collins - <b style="color: green"> VERY IMP BOOK - PLAN ACCORDINGLY</b>
 12. Quit Like a Millionaire by Kristy Shen - <b style="color: green"> VERY IMP BOOK - PLAN ACCORDINGLY</b>
 13. Ten Women Who Changed Science and the World - Catherine Whitlock
-
-
-# ToRead:
-      
-    Scam me if you can
-    Stocks for long run - Jeremy Siegal
-    Aristotle principles (Rules of Drama mentioned in Aaron Sorkin Masterclass)
-    Books written by Bent Flyvbjerg - on Scale
-    Richest man in Babylon   
-    Garret sutton's book on personal corporations
-    New Financial Advisor - Nick Murray (in Rich dad poor dad)
-    taxbook.com
-    1-2-3 Magic
-    JamesClear pdf checklist online
-    Peter Drucker books
-    Neil Gaiman - The graveyard book and other books.
-    Mathematicians: An Outer View of the Inner World.
-    Man's search for meaning
-    Davinci bio new book
-    Bogle heads book/Bogle heads financial planning blog.
-    The Rent Is Too Damn High: What To Do About It, And Why It Matters More Than You Think
-    Test driven Dev by Kent Beck
-    Negotiating Opportunities: How the Middle Class Secures Advantages in School.
-    https://www.amazon.com/Catastrophic-Care-Everything-Think-Health/dp/034580273X
-    http://www.gutenberg.org/ebooks/20203?msg=welcome_stranger
-    Titan by Chernow. Rockefeller
