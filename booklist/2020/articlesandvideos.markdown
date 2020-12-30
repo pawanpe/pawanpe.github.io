@@ -118,3 +118,8 @@ layout: page
 <b style="color: red">12/06/2020</b>
 
 1.[BiggerPockets Money Podcast 141: How to Graduate College Debt-Free and Pursue FI Before 40 with 4 kids -- VERY IMP FOR KIDS- Refer](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-141-blake-nielson)
+
+<b style="color: red">12/30/2020</b>
+
+1.[ChooseFI - Tax Planning 2020 | EP 274 -- IMP](https://www.choosefi.com/tax-planning-2020-ep-274/)
+2.[SideHustleNation - How I Sold 64,000 Pounds of Onions Online](https://www.sidehustlenation.com/selling-onions-on-the-internet/)
