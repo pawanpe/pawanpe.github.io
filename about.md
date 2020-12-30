@@ -10,13 +10,14 @@ software maintainer and technical support.</p>
 
 <h2 style="color: brown">Experience:</h2>
 <ul class="skill-list">
-	<li>Object Oriented Programming</li>
-	<li>Test frameworks and test suite development </li>
-	<li>Tools development</li>
-	<li>Enterprise level distributed, web and standalone software applications</li>
-	<li>Agile, Waterfall, PairProgramming work methodologies</li>
-	<li>Tools design, work organizing and leading teams technically</li>
-	<li>Functional programming</li>
+	<li>Object Oriented Programming. </li>
+	<li>Test automation frameworks and suite development. </li>
+	<li>Tools design, work organization and leading teams. </li>
+	<li>Tools development. </li>
+	<li>Full stack experience. </li>
+	<li>Web crawlers. Big data processing. </li>
+	<li>Enterprise level Web, distributed and standalone software applications</li>
+	<li>Agile, Waterfall, PairProgramming work methodologies</li>	
 </ul>
 
 <h2 style="color: brown">Skills</h2>
@@ -24,7 +25,7 @@ software maintainer and technical support.</p>
 <ul class="skill-list">
 
 	<li>xUnit frameworks</li>
-	<li>Selenium Web driver</li>
+	<li>JavaScript test frameworks</li>
 	<li>Java</li>
 	<li>XML/HTML parsers</li>
 	<li>MATLAB</li>
@@ -33,11 +34,13 @@ software maintainer and technical support.</p>
 	<li>Test Driven Development (TDD)</li>
 	<li>JSON</li>
 	<li>Jekyll</li>
-	<li>MATLABUnit, Qunit, FuncUnit</li>
-	<li>Python</li>
-	<li>Bootstrap, CSS</li>
+	<li>Django 3.0</li>
+	<li>MATLABUnit, Qunit, FuncUnit, Karma, Puppeteer</li>
+	<li>Linux - bash, csh</li>
+	<li>Python 3</li>
+	<li>Bootstrap 3 and 4, CSS</li>
 	<li>Custom reporting tools (standalone and web) development</li>
-	<li>Agile, Scrum and Kanban</li>
+	<li>Agile, Scrum, JIRA, Confluence, TeamCity and Kanban</li>
 	
 </ul>
 

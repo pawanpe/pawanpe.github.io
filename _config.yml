@@ -1,6 +1,6 @@
 # main text of home
 name: Pawan Pentamaraju
-bio: Software Engineer in Test, Photographer and wanna be Writer.
+bio: Senior Software Engineer in Test and Photographer.
 
 # twitter summary info
 description: A personal blog about ...
@@ -38,7 +38,6 @@ disqus:
 # facebook: myfacebook
 # twitter: pawanpe
 # google: mygoogle
-# instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -53,14 +52,15 @@ github: pawanpe
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: pawanpe@outlook.com
+instagram: pawantraveldiary
 
 authors:
     pawanpe:
         name: Pawan Pentamaraju
-        bio: Software Engineer in Test, Photographer and wanna be Writer.
+        bio: Senior Software Engineer in Test and Photographer.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: pawanpe
+        #twitter: pawanpe
 
 
 # do you want a larger site? change the option below
