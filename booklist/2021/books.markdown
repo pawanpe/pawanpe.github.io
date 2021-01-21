@@ -5,13 +5,12 @@ layout: page
 
 # 2021
 
-1. TBD
+1. Scam me if you can by Frank Abagnale - Good book to avoid various scams in society
 2. TBD
 3. TBD
 
-# ToRead:
-      
-    Scam me if you can
+# ToRead:      
+    
     Stocks for long run - Jeremy Siegal
     Aristotle principles (Rules of Drama mentioned in Aaron Sorkin Masterclass)
     Books written by Bent Flyvbjerg - on Scaling domain.
