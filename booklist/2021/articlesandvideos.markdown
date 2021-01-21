@@ -18,3 +18,7 @@ layout: page
 <b style="color: magenta">01/17/2021</b>
 
 1. [Friday Q&A: Retirement Accounts for Americans Abroad, Whole Life Insurance, Rental Property Furnishings, Giving Appreciated Assets to Charity - VERY IMP](https://podcasts.google.com/feed/aHR0cDovL3JhZGljYWxwZXJzb25hbGZpbmFuY2UubGlic3luLmNvbS9yc3M/episode/YjNmMGJlNWEtMGI3Mi00NDAxLWIwNTEtM2QxNjNkOGI1ZDll?hl=en&ved=2ahUKEwihwPem06PuAhUtZN8KHfj-ALQQjrkEegQIChAF&ep=6)
+
+<b style="color: magenta">01/20/2021</b>
+
+1. [Community, Chautauqua, And AMA With JL Collins](https://www.choosefi.com/036-community-chatauqua-ama-jl-collins/)
