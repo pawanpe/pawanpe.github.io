@@ -22,3 +22,8 @@ layout: page
 <b style="color: magenta">01/20/2021</b>
 
 1. [Community, Chautauqua, And AMA With JL Collins](https://www.choosefi.com/036-community-chatauqua-ama-jl-collins/)
+
+<b style="color: magenta">02/02/2021</b>
+
+1. [Paul Merriman | EP 290 - VERY IMP](https://www.choosefi.com/paul-merriman-ep-290/)
+2. [How time can turn $3,000 into $50 million in a life time - IMP for planning for kids](https://paulmerriman.com/time-can-turn-3000-50-million/)
