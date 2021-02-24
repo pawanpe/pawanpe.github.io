@@ -27,3 +27,8 @@ layout: page
 
 1. [Paul Merriman: EP 290 About small cap value - VERY IMP](https://www.choosefi.com/paul-merriman-ep-290/)
 2. [How time can turn $3,000 into $50 million in a life time - IMP for planning for kids](https://paulmerriman.com/time-can-turn-3000-50-million/)
+
+
+<b style="color: magenta">02/24/2021</b>
+
+1. [US citizens outside US, Getting Back Into Tax Compliance, Protecting Cash from Inflation - Info about US children, growing outside USA](https://radicalpersonalfinance.libsyn.com/friday-qa-government-job-or-private-sector-getting-back-into-tax-compliance-protecting-cash-from-inflation-camper-or-hotel-traveling-while-on-maternity-leave-etc)
