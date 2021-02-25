@@ -12,6 +12,7 @@ layout: page
 # ToRead:      
     
     Stocks for long run - Jeremy Siegal
+    https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
     Aristotle principles (Rules of Drama mentioned in Aaron Sorkin Masterclass)
     Books written by Bent Flyvbjerg - on Scaling domain.
     Richest man in Babylon   
