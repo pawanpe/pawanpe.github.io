@@ -32,3 +32,8 @@ layout: page
 <b style="color: magenta">02/24/2021</b>
 
 1. [US citizens outside US, Getting Back Into Tax Compliance, Protecting Cash from Inflation - Info about US children, growing outside USA](https://radicalpersonalfinance.libsyn.com/friday-qa-government-job-or-private-sector-getting-back-into-tax-compliance-protecting-cash-from-inflation-camper-or-hotel-traveling-while-on-maternity-leave-etc)
+
+<b style="color: magenta">02/25/2021</b>
+
+1. [Junior Year Checklist (Part 4). How to create a system to keep your important college admission documents organized and, most importantly, meet all your deadlines. Organization is a big part of your personal leadership and success - IMP FOR CHILDREN](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTgyNzQzLnJzcw/episode/QnV6enNwcm91dC03OTc1MDMz?sa=X&ved=0CAUQkfYCahcKEwiQzZOAgYbvAhUAAAAAHQAAAAAQAQ)
+2. [10 Tips Teenagers Need to Hear from Their Parents Before Heading Off to College - IMP FOR PARENTS](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTgyNzQzLnJzcw/episode/QnV6enNwcm91dC03ODQwMDA5?sa=X&ved=0CAUQkfYCahcKEwiQzZOAgYbvAhUAAAAAHQAAAAAQAQ)
