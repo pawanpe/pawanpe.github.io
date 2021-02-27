@@ -35,5 +35,9 @@ layout: page
 
 <b style="color: magenta">02/25/2021</b>
 
-1. [Junior Year Checklist (Part 4). How to create a system to keep your important college admission documents organized and, most importantly, meet all your deadlines. Organization is a big part of your personal leadership and success - IMP FOR CHILDREN](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTgyNzQzLnJzcw/episode/QnV6enNwcm91dC03OTc1MDMz?sa=X&ved=0CAUQkfYCahcKEwiQzZOAgYbvAhUAAAAAHQAAAAAQAQ)
+1. [College Metropolis - Junior Year Checklist (Part 4). How to create a system to keep your important college admission documents organized and, most importantly, meet all your deadlines. Organization is a big part of your personal leadership and success - IMP FOR CHILDREN](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTgyNzQzLnJzcw/episode/QnV6enNwcm91dC03OTc1MDMz?sa=X&ved=0CAUQkfYCahcKEwiQzZOAgYbvAhUAAAAAHQAAAAAQAQ)
 2. [10 Tips Teenagers Need to Hear from Their Parents Before Heading Off to College - IMP FOR PARENTS](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTgyNzQzLnJzcw/episode/QnV6enNwcm91dC03ODQwMDA5?sa=X&ved=0CAUQkfYCahcKEwiQzZOAgYbvAhUAAAAAHQAAAAAQAQ)
+
+<b style="color: magenta">02/27/2021</b>
+
+1. [College Metropolis - Junior Year Checklist (Part 5). Narrowing Down Your List of Schools and Defining Your Reach, Target, and Safety Schools](https://www.collegemetropolis.com/junior-year-checklist-part-5-narrowing-down-your-list-of-schools-and-defining-your-reach-target-and-safety-schools-also-analyzing-admission-data-from-occidental-college-and-the-importance-of-attending-college-fairs/)
