@@ -41,3 +41,7 @@ layout: page
 <b style="color: magenta">02/27/2021</b>
 
 1. [College Metropolis - Junior Year Checklist (Part 5). Narrowing Down Your List of Schools and Defining Your Reach, Target, and Safety Schools](https://www.collegemetropolis.com/junior-year-checklist-part-5-narrowing-down-your-list-of-schools-and-defining-your-reach-target-and-safety-schools-also-analyzing-admission-data-from-occidental-college-and-the-importance-of-attending-college-fairs/)
+
+<b style="color: magenta">03/12/2021</b>
+
+1. [The Seen and the Unseen -Ep 212: Pandemonium in India's Banks](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/YTk5NDcwMWYtMTMyNy00NmQ5LWIzMjQtYmNiMzc3MDFjNmI3?sa=X&ved=0CAUQkfYCahcKEwiAuvWb-ZnvAhUAAAAAHQAAAAAQGw)
