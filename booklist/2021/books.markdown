@@ -5,8 +5,8 @@ layout: page
 
 # 2021
 
-1. Scam me if you can by Frank Abagnale - Good book to avoid various scams in society
-2. TBD
+1. [Scam me if you can by Frank Abagnale - Good book to avoid various scams in society](https://www.amazon.com/Scam-Me-You-Can-Strategies/dp/0525538968)
+2. [ChooseFI - Your Blueprint To Financial Independence](https://www.choosefi.com/read/books/blueprint-to-fl/)
 3. TBD
 
 # ToRead:      
