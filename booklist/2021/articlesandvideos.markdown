@@ -45,3 +45,12 @@ layout: page
 <b style="color: magenta">03/12/2021</b>
 
 1. [The Seen and the Unseen -Ep 212: Pandemonium in India's Banks](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/YTk5NDcwMWYtMTMyNy00NmQ5LWIzMjQtYmNiMzc3MDFjNmI3?sa=X&ved=0CAUQkfYCahcKEwiAuvWb-ZnvAhUAAAAAHQAAAAAQGw)
+
+<b style="color: magenta">03/15/2021</b>
+
+1.[How to Get Rich by Nav.al -- MUST LISTEN](https://nav.al/rich)
+2.[The Seen and hte UnSeen - Entry and Exit in Agriculture](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/NzgxMzUwMTU1MGYwNzliNDhkN2UxOTU0Mjg5MmIzMjM?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
+3.[The Seen and hte UnSeen - Ep. 02: Demonetisation](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/ODM2ZDZjZWY4OWE0OTYyM2U0NWNiZjVmMTIzZjllOWQ?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
+4.[The Seen and hte UnSeen - Ep. 04: Immigration](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/ZmJlMjM2OTcwMzQ1OTE4MGY1MTYzM2M4Yzk2MmM0YmU?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
+5.[The Seen and hte UnSeen - Ep. 07: MRP -Maximum Retail Price](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/N2E3ZWM4NzNiMzExZjEyNmU1NzgyZDE1ZmQ2MDAzNGE?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
+6.[The Seen and hte UnSeen - Ep. 09: The Profit Motive in Education](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/MDdiZGMxYjBmNzQ2YjU4NThiMWFiYjdkYjg0NWNlNTg?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
