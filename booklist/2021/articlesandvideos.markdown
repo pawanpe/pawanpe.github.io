@@ -54,3 +54,18 @@ layout: page
 4. [The Seen and hte UnSeen - Ep. 04: Immigration](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/ZmJlMjM2OTcwMzQ1OTE4MGY1MTYzM2M4Yzk2MmM0YmU?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
 5. [The Seen and hte UnSeen - Ep. 07: MRP -Maximum Retail Price](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/N2E3ZWM4NzNiMzExZjEyNmU1NzgyZDE1ZmQ2MDAzNGE?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
 6. [The Seen and hte UnSeen - Ep. 09: The Profit Motive in Education](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWVudW5zZWVuLmxpYnN5bi5jb20v/episode/MDdiZGMxYjBmNzQ2YjU4NThiMWFiYjdkYjg0NWNlNTg?sa=X&ved=0CAUQkfYCahcKEwiA_pKXiazvAhUAAAAAHQAAAAAQHA)
+
+<b style="color: magenta">04/29/2021</b>
+
+1. [The 7 Things Every Parent of a College-Bound Teen Should Do part 1 and 2 -- MUST LISTEN FOR CHILD EDUCATION](https://www.collegemetropolis.com/the-7-things-every-parent-of-a-college-bound-teen-should-do-advice-from-a-college-professor-part-1/)
+2. [Important Differences Between Private and Public Colleges and Universities, and How Each Will Affect Your Kid  -- MUST LISTEN FOR CHILD EDUCATION](https://www.collegemetropolis.com/important-differences-between-private-and-public-colleges-and-universities-and-how-each-will-affect-your-kid-part-1/)
+3. [College Hacking: The Comprehensive Guide EP 309- Also read the show notes. MUST LISTEN FOR CHILD EDUCATION](https://www.choosefi.com/colleg-hacking-the-comprehensive-guide-stereo-live-qa-ep-309/)
+4. [Ep 114 : Demystify College Scholarships](https://www.choosefi.com/114-how-to-get-college-scholarships/)
+5. [Ep 154 : Hacking The FAFSA - Choose FI](https://www.choosefi.com/hacking-the-fafsa/)
+6. [083 : A Second Generation FI Case Study](https://www.choosefi.com/083-second-generation-fi-cody-berman/)
+7. [138 How To Get Paid To Go To College ](https://www.choosefi.com/get-paid-to-go-to-college/)
+8. [How To Test Out of College While You’re Still In High School - Millionaire Educator - Ep 238](https://www.choosefi.com/how-to-test-out-of-college-while-youre-still-in-high-school-millionaire-educator-ep-238/)
+9. [095 - A Military Path To FI - Military Dollar](https://www.choosefi.com/095-military-dollar/)
+10. [First-Time Home Buyer : BiggerPockets - EP 312](https://www.choosefi.com/first-time-home-buyer-biggerpockets-ep-312/)
+11. [BiggerPockets Money Podcast 187: Tiffany Aliche’s 10 Financial Components to Become ‘Financially Whole’](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-187-tiffany)
+12. [Podcast #698: The Secrets of Public Speaking From History’s Greatest Orators](https://www.artofmanliness.com/articles/guide-to-effective-public-speaking/)
