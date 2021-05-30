@@ -73,5 +73,5 @@ layout: page
 
 <b style="color: magenta">05/30/2021</b>
 
-1. [https://www.biggerpockets.com/blog/biggerpockets-money-podcast-kyle-mast](BiggerPockets Money Podcast 200: Episode 200 Special: A Personal Finance Masterclass with Kyle Mast)
-2. [https://edtrust.org/extraordinary-districts/extraordinary-districts-episode-2-lexington-massachusetts/](ExtraOrdinary Districts: Season 1, Episode 2: Lexington, Massachusetts -- VERY IMP for children)
+1. [BiggerPockets Money Podcast 200: Episode 200 Special: A Personal Finance Masterclass with Kyle Mast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-kyle-mast)
+2. [ExtraOrdinary Districts: Season 1, Episode 2: Lexington, Massachusetts -- VERY IMP for children](https://edtrust.org/extraordinary-districts/extraordinary-districts-episode-2-lexington-massachusetts/)
