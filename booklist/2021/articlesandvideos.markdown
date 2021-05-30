@@ -69,3 +69,9 @@ layout: page
 10. [First-Time Home Buyer : BiggerPockets - EP 312](https://www.choosefi.com/first-time-home-buyer-biggerpockets-ep-312/)
 11. [BiggerPockets Money Podcast 187: Tiffany Aliche’s 10 Financial Components to Become ‘Financially Whole’](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-187-tiffany)
 12. [Podcast #698: The Secrets of Public Speaking From History’s Greatest Orators](https://www.artofmanliness.com/articles/guide-to-effective-public-speaking/)
+
+
+<b style="color: magenta">05/30/2021</b>
+
+1. [https://www.biggerpockets.com/blog/biggerpockets-money-podcast-kyle-mast](BiggerPockets Money Podcast 200: Episode 200 Special: A Personal Finance Masterclass with Kyle Mast)
+2. [https://edtrust.org/extraordinary-districts/extraordinary-districts-episode-2-lexington-massachusetts/](ExtraOrdinary Districts: Season 1, Episode 2: Lexington, Massachusetts -- VERY IMP for children)
