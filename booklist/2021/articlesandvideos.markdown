@@ -75,3 +75,14 @@ layout: page
 
 1. [BiggerPockets Money Podcast 200: Episode 200 Special: A Personal Finance Masterclass with Kyle Mast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-kyle-mast)
 2. [ExtraOrdinary Districts: Season 1, Episode 2: Lexington, Massachusetts -- VERY IMP for children](https://edtrust.org/extraordinary-districts/extraordinary-districts-episode-2-lexington-massachusetts/)
+
+<b style="color: magenta">06/16/2021</b>
+
+1. [Your Teen May Need You to Adjust Your Parenting Style During the College Admission Process. How to Apply Intentional Parenting While Avoiding Helicopter Parenting -- MUST](https://www.collegemetropolis.com/how-to-use-intentional-parenting-to-be-the-person-your-college-bound-teen-needs-you-to-be/)
+2. [Make Your Kid a Millionaire: Roth IRA for Kids](https://www.choosefi.com/make-your-kid-a-millionaire-roth-ira-for-kids/)
+3. [Career Focused Episode: Registered Nursing. Bachelor’s in Nursing Programs. The Life of a Registered Nurse, Skills and Characteristics Needed - MUST](https://www.collegemetropolis.com/career-focused-episode-registered-nursing-bachelors-in-nursing-programs-the-life-of-a-registered-nurse-skills-and-characteristics-needed-required-education-pay-employment-prospects-and-other-important-data/)
+4. [BiggerPockets Money Podcast 200: Episode 200 Special: A Personal Finance Masterclass with Kyle Mast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-kyle-mast)
+5. [Sound Investing by Paul Merriman: Be the Market](https://podcasts.apple.com/us/podcast/be-the-market/id1464038604?i=1000523570951)
+6. [Sound Investing : Sex, food, money... and the impact of emotional decisions - MUST](https://podcasts.apple.com/us/podcast/sex-food-money-and-the-impact-of-emotional-decisions/id1464038604?i=1000523150636)
+7. [Sound Investing:  Habits that can add millions to your retirement](https://podcasts.apple.com/us/podcast/habits-that-can-add-millions-to-your-retirement/id1464038604?i=1000520257367)
+8. [The Truth About College Admissions. There are Different Types of Colleges for “All” High School Graduates, Regardless of Academic or College Preparation.  - MUST](https://www.collegemetropolis.com/the-truth-about-college-admissions-there-are-different-types-of-colleges-for-all-high-school-graduates-regardless-of-academic-or-college-preparation-columbia-university-boston-college-university-of-oregon-southwestern-u-and-miami/)
